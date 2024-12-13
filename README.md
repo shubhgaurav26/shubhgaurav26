@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on SAAS Projects<br>👯 I’m looking to collaborate <br>🤝 I’m looking for help with integrating machine learning models into web platforms.<br>🧑‍💻 I’m currently learning Data Structures and Algorithms.<br>💬 Ask me about anything,  I am happy to help;<br><br><br>📞 Contact Me :<br>📧 Email : shubhgaurav.01@gmail.com<br>📱 Phone : 6297609014
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhamgaurav.26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhgaurav26) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28766046) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shubhgaurav26) 
